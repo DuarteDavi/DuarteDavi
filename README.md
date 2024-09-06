@@ -7,9 +7,9 @@
 
 ---
 
-## 🌟 Sobre Mim
+## Sobre Mim
 
-Sou um entusiasta da tecnologia, sempre em busca de novos desafios e oportunidades de aprendizado. Tenho um grande interesse por [mencione suas áreas de interesse], e acredito que a tecnologia pode mudar o mundo para melhor.
+Sou um desenvolvedor **Front-End com React** e **Back-End com Node.js**. Desde 2019, atuo como bolsista no iTec (https://itecfurg.org/) (C3 / IMEF) onde tenho a oportunidade de contribuir para projetos inovadores.
 
 - 🌱 Atualmente explorando: [Tecnologias/Temas].
 - 💬 Pergunte-me sobre: [Temas em que você se sente confortável].
