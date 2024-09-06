@@ -27,34 +27,13 @@ Sou um desenvolvedor **Front-End com React** e **Back-End com Node.js**. Desde 2
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=radical" alt="Dias de Contribuição Consecutivos" />
-</p>
-
----
-
-## 📁 Projetos Recentes
-
-- [Projeto 1](https://github.com/seu_usuario/projeto1) - Breve descrição do projeto 1.
-- [Projeto 2](https://github.com/seu_usuario/projeto2) - Breve descrição do projeto 2.
-- [Projeto 3](https://github.com/seu_usuario/projeto3) - Breve descrição do projeto 3.
-
----
 
 ## 🌐 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_usuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu_usuario)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://seuportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daviduarte996@gmail.com)
 
 ---
 
