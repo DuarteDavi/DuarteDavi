@@ -1,7 +1,6 @@
 # Olá, eu sou Davi! 👋
 
-🎓 **Estudante de Sistemas de informação** na FURG.    
-💻 **Apaixonado por**: Desenvolvimento Web e Mobile  
+🎓 **Estudante de Sistemas de informação** na Universidade Federal do Rio Grande - FURG.    
 📚 **Atualmente aprendendo**: Flutter.  
 
 
