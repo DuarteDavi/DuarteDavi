@@ -1,4 +1,4 @@
-# Olá, eu sou Davi! 👋
+# Olá, meu nome é Davi! 👋
 
 🎓 **Estudante de Sistemas de informação** na Universidade Federal do Rio Grande - FURG.    
 📚 **Atualmente aprendendo**: Flutter.  
