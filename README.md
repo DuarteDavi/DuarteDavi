@@ -41,17 +41,6 @@ Sou um desenvolvedor **Front-End com React** e **Back-End com Node.js**. Desde 2
 
 - 🎵 Música
 - 🎮 Games
-- ✈️ Viagens
-- 📖 Leitura
 
 ---
 
-## 🏆 Contribuições Recentes
-
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=seu_usuario&theme=dark" alt="Contribuições Recentes"/>
-</p>
-
----
-
-_Obrigado pela visita! 😊_
