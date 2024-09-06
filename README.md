@@ -1,9 +1,9 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Davi! 👋
 
-🎓 **Estudante de [Seu Curso]** na [Sua Universidade].  
-💻 **Apaixonado por**: Desenvolvimento Web, Ciência de Dados, e Inteligência Artificial.  
-📚 **Atualmente aprendendo**: [Tecnologia/Assunto atual].  
-🚀 **Buscando colaborar em**: Projetos Open Source.
+🎓 **Estudante de Sistemas de informação** na FURG.    
+💻 **Apaixonado por**: Desenvolvimento Web e Mobile  
+📚 **Atualmente aprendendo**: Flutter.  
+
 
 ---
 
