@@ -12,7 +12,7 @@
 Sou um desenvolvedor **Front-End com React** e **Back-End com Node.js**. Desde 2019, atuo como bolsista no iTec (https://itecfurg.org/) (C3 / IMEF) onde tenho a oportunidade de contribuir para projetos inovadores.
 
 - 🌱 Atualmente explorando: Flutter.
-- 📫 Como me encontrar: daviduarte996@gmail.com.
+- 📫 Como me encontrar: daviduarte996@gmail.com, https://www.instagram.com/davizehra/profilecard/?igsh=MWxwZ3g3YzZvejZkag==
 
 ---
 
