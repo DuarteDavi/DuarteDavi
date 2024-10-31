@@ -32,11 +32,11 @@ Sou um desenvolvedor **Front-End com React** e **Back-End com Node.js**. Desde 2
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteDavi&layout=compact&theme=dark)
 
 ## 🌐 Conecte-se Comigo
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-duarte-oliveira/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://seuportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daviduarte996@gmail.com)
-
+</div>
 ---
 
 ## 🎮 Hobbies e Interesses
