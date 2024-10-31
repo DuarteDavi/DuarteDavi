@@ -3,7 +3,7 @@
 🎓 **Estudante de Sistemas de informação** na Universidade Federal do Rio Grande - FURG.    
 📚 **Atualmente aprendendo**: Flutter.  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)
+
 
 ---
 
@@ -27,7 +27,7 @@ Sou um desenvolvedor **Front-End com React** e **Back-End com Node.js**. Desde 2
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)
 
 ## 🌐 Conecte-se Comigo
 
