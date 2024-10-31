@@ -3,6 +3,7 @@
 🎓 **Estudante de Sistemas de informação** na Universidade Federal do Rio Grande - FURG.    
 📚 **Atualmente aprendendo**: Flutter.  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)
 
 ---
 
